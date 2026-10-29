@@ -1,0 +1,19 @@
+/* Este style es para el ejercicio del git */
+body {
+ font-family: Arial, sans-serif;
+ margin: 40px;
+}
+h1 {
+ font-family: Arial, sans-serif;
+ font-size: 32px;
+ font-weight: bold;
+ text-align: center;
+ color: #1f4e79;
+ margin-bottom: 20px;
+}
+p {
+ font-size: 16px;
+ text-align: center;
+ color: #333;
+ margin-bottom: 20px;
+}
